@@ -16,7 +16,7 @@ namespace OOPLab4._2
         public void print()
         {
             
-            Console.WriteLine("Марка, модель: \tКолiр: \tНомер: \t Piк: \tIнформацiя про власника: ");           
+            Console.WriteLine("Марка, модель: \tКолiр: \tНомер: \t Piк: \tIнформацiя про власника : ");           
             for (int i = 0; i < 10; i++)
             {                
                 Console.WriteLine("" + Make[i] + "\t" + Color[i] + "\t" + Number[i] + " " + Year[i] + "\t" + OwnerData[i]);               
