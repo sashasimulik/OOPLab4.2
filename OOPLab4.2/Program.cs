@@ -4,7 +4,7 @@ namespace OOPLab4._2
 {
     class Catalog
     {
-        string[] Make = { "Abarth 500", "BMW 530d", "Chevy Corvette", "Fiat Linea", "Honda Accord", "Jaguar I-Pace",  "Nissan GT-R", "Opel Insignia", "Saab 9-7", "Volkswagen Golf" };
+        string[] Make = { "Abarth 500 ", "BMW 530d", "Chevy Corvette", "Fiat Linea", "Honda Accord", "Jaguar I-Pace",  "Nissan GT-R", "Opel Insignia", "Saab 9-7", "Volkswagen Golf" };
         string[] Color = { "Бiлий", "Чорний", "Зелений", "Жовтий", "Золотий", "Синiй", "Чорний", "Срiбний", "Бiлий", "Рожевий" };
         string[] Number = { "AO5521BB", "AO6665AM", "BC7814HH", "AA8997CH", "AO0100CK", "AO1555BB", "AO1001PP", "AH2002AA", "AO2001AM", "AO7668AM" };
         string[] Year = { "2011", "2012", "2009", "2018", "1999", "2020", "2004", "2010", "2012", "2002" };
